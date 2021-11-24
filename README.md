@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-## Project under progess..
+## The Project is under progess..
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
